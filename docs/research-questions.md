@@ -1,8 +1,4 @@
-# Answered research-question slate: choose the final five
-
-Status: **awaiting the researcher's relevance judgment**. These are empirical candidates,
-not a claim that all eight belong in the final TCC. RQ6–RQ8 are a replacement bench built
-after adding the definitive sector-level income and street-environment releases.
+# Answered research-question slate
 
 ## RQ1 — What urban-form profiles emerge across Cabo, Jaboatão, and Recife?
 
@@ -131,10 +127,3 @@ feature-dependent exploratory views rather than a fixed urban taxonomy.
 
 **Main limitation:** This sensitivity test still uses PCA + K-means and two added summary
 features. Alternative representations and external validation could support other typologies.
-
-## Your relevance decision
-
-Choose five questions and mark each **keep**, **modify**, or **drop**. A useful response can be
-as compact as `keep 2,5,6,7,8; drop 1,3,4`. For anything marked modify/drop, the next
-iteration will replace or reshape it and run the corresponding analysis rather than merely
-renaming the question.
