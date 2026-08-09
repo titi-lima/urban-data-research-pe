@@ -6,15 +6,14 @@ Agostinho, Jaboatão dos Guararapes, Recife, and their metropolitan context.
 ## Archive status
 
 The violence-centered research line was intentionally closed. Cabo is an extreme municipal
-outlier, important mechanisms such as gang conflict are not measured in the public datasets,
+outlier, important mechanisms are not measured in the public datasets,
 and the topic was not a good fit for the researcher's desired social contribution. The code
-and negative findings remain public-facing portfolio material and may help a future researcher
+and negative findings remain public-facing material and may help a future researcher
 avoid overstating what these sources can identify.
 
 This is an archive, not an abandoned claim of causal results. See
 [`docs/archive-findings.md`](docs/archive-findings.md) for the handoff and
-[`docs/violence-research-questions.md`](docs/violence-research-questions.md) for the final
-violence POCs.
+[`docs/violence-research-questions.md`](docs/violence-research-questions.md) for the POCs.
 
 ## Repository map
 
@@ -96,5 +95,4 @@ Run `uv run urban-research --help` for individual stages.
 - Keep raw downloads out of Git. Source URLs and expected checksums live in the download
   script so the dataset remains reproducible.
 
-The exploratory question slates are retained as methodological history. They are not an active
-TCC agenda.
+The exploratory question slates are retained as methodological history.
